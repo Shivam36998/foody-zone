@@ -1,0 +1,87 @@
+/** @format */
+*{
+    margin: 0;padding: 0;
+}
+.cardArea {
+  width: 317px;
+  height: 167px;
+  flex-shrink: 0;
+  border-radius: 19.447px;
+  display: flex;
+  padding: 10px 20px;
+  gap: 20px;
+  justify-content: space-around;
+  align-items: center;
+  border: 0.659px solid #98f9ff;
+  /* background: url(<path-to-image>),
+    lightgray 0% 0% / 50.8334219455719px 50.8334219455719px repeat,
+    radial-gradient(
+      151.92% 127.02% at 15.32% 21.04%,
+      rgba(165, 239, 255, 0.2) 0%,
+      rgba(110, 191, 244, 0.04) 77.08%,
+      rgba(70, 144, 212, 0) 100%
+    ); */
+  background-blend-mode: overlay, normal;
+  backdrop-filter: blur(13.184196472167969px);
+}
+.cardAreaPic {
+  width: 133px;
+  height: 133px;
+  flex-shrink: 0;
+  border-radius: 133px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.cardAreaContent {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.cardAreaContentHeading {
+  color: #fff;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.cardAreaContentDescription {
+  color: #fff;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.ItemCost {
+  display: inline-flex;
+  padding: 4px 6px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 5px;
+  background: #ff4343;
+  max-width: fit-content;
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+  padding: 4px 14px;
+  border: red;
+}
+.ItemCost:hover{
+  background-color: rgb(36, 76, 51);
+}
+
+@media screen and (max-width: 360px) {
+    .cardArea{
+      width: 270px;
+      gap: 10px;
+      align-items: center;
+    }
+    .cardAreaPic, .cardAreaPic img{
+      width: 90px;
+      height: 90px;
+    }
+}

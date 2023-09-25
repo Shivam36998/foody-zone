@@ -1,0 +1,32 @@
+.mainArea{
+    height: 75vh;
+    background-image: url("../../public/images/foodyzonebg.jpeg");
+    background-size: cover;
+    position: relative;
+    overflow-y: scroll;
+}
+.mainAreaCover{
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    background-color: rgba(36, 32, 32, 0.852);
+}
+.mainAreaContent{
+    display: flex;
+    width: 80vw;
+    margin: 30px auto;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+@media screen and (max-width: 360px) {
+    .mainArea{
+        height: 83vh;
+    }
+    .mainAreaCover{
+        width: 100%;
+    }
+    .mainAreaContent{
+        width: 90vw;
+    }
+}
