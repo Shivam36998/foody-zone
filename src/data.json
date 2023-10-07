@@ -1,367 +1,427 @@
 [
   {
+    "id": 1,
     "name": "Boiled Egg",
     "price": 10,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "image": "/images/egg.png",
     "type": "breakfast"
   },
   {
+    "id": 2,
     "name": "RAMEN",
     "price": 25,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "image": "/images/ramen.png",
     "type": "lunch"
   },
   {
+    "id": 3,
     "name": "GRILLED CHICKEN",
     "price": 45,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 4,
     "name": "CAKE",
     "price": 18,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "image": "/images/cake.png",
     "type": "breakfast"
   },
   {
+    "id": 5,
     "name": "BURGER",
     "price": 23,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "image": "/images/burger.png",
     "type": "lunch"
   },
   {
+    "id": 6,
     "name": "PANCAKE",
     "price": 25,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "image": "/images/pancake.png",
     "type": "dinner"
   },
   {
+    "id": 7,
     "name": "Omelette",
     "price": 12,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 8,
     "name": "Sushi",
     "price": 30,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 9,
     "name": "Steak",
     "price": 55,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 10,
     "name": "Muffin",
     "price": 8,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 11,
     "name": "Pizza",
     "price": 20,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 12,
     "name": "Salmon",
     "price": 40,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 13,
     "name": "French Toast",
     "price": 15,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 14,
     "name": "Taco",
     "price": 12,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 15,
     "name": "Lobster",
     "price": 65,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 16,
     "name": "Pancake Stack",
     "price": 18,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 17,
     "name": "Sushi Roll",
     "price": 28,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 18,
     "name": "BBQ Ribs",
     "price": 50,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 19,
     "name": "Waffles",
     "price": 16,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 20,
     "name": "Tuna Sandwich",
     "price": 14,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 21,
     "name": "Filet Mignon",
     "price": 60,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 22,
     "name": "Bagel",
     "price": 8,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 23,
     "name": "Chicken Salad",
     "price": 18,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 24,
     "name": "Lamb Chops",
     "price": 48,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 25,
     "name": "Croissant",
     "price": 12,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 26,
     "name": "Chicken Wrap",
     "price": 16,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 27,
     "name": "Shrimp Scampi",
     "price": 35,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 28,
     "name": "English Breakfast",
     "price": 14,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 29,
     "name": "Tofu Stir-Fry",
     "price": 20,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 30,
     "name": "Seafood Paella",
     "price": 40,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 31,
     "name": "Cinnamon Roll",
     "price": 12,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 32,
     "name": "Turkey Sandwich",
     "price": 14,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 33,
     "name": "Beef Stroganoff",
     "price": 38,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 34,
     "name": "Baguette",
     "price": 6,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 35,
     "name": "Caprese Salad",
     "price": 16,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 36,
     "name": "Vegetable Stir-Fry",
     "price": 22,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 37,
     "name": "Danish Pastry",
     "price": 10,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 38,
     "name": "BLT Sandwich",
     "price": 14,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 39,
     "name": "Ravioli",
     "price": 26,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 40,
     "name": "Bagel with Cream Cheese",
     "price": 8,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 41,
     "name": "Greek Salad",
     "price": 16,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 42,
     "name": "Szechuan Chicken",
     "price": 24,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 43,
     "name": "Cranberry Muffin",
     "price": 9,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 44,
     "name": "Club Sandwich",
     "price": 14,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 45,
     "name": "Lasagna",
     "price": 30,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 46,
     "name": "Croissant with Jam",
     "price": 10,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 47,
     "name": "Garden Salad",
     "price": 14,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 48,
     "name": "Mongolian Beef",
     "price": 28,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 49,
     "name": "Blueberry Pancakes",
     "price": 18,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 50,
     "name": "Ham and Cheese Sandwich",
     "price": 12,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 51,
     "name": "Pork Tenderloin",
     "price": 32,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 52,
     "name": "Baguette with Butter",
     "price": 7,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 53,
     "name": "Caesar Salad",
     "price": 16,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 54,
     "name": "Chicken Alfredo",
     "price": 34,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 55,
     "name": "Cinnamon Bagel",
     "price": 9,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 56,
     "name": "Veggie Wrap",
     "price": 14,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 57,
     "name": "Ratatouille",
     "price": 28,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   },
   {
+    "id": 58,
     "name": "Chocolate Croissant",
     "price": 10,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "breakfast"
   },
   {
+    "id": 59,
     "name": "Egg Salad Sandwich",
     "price": 12,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "lunch"
   },
   {
+    "id": 60,
     "name": "Spare Ribs",
     "price": 36,
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "type": "dinner"
   }
 ]

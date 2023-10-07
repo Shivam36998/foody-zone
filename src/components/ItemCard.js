@@ -3,9 +3,8 @@ import styles from './ItemCard.module.css'
 const ItemCard = (props) => {
   let newImage = props.image
   if(!newImage) newImage = "/images/general.png"
-  console.log(newImage)
   return (
-    <div className={styles.cardArea}>
+    <div className={styles.cardArea} onClick={()=>{props.IsSelected(props.id)}}>
         <div className={styles.cardAreaPic}> 
         <img src={newImage} alt=""/>
         </div>

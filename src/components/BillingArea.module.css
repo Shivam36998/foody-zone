@@ -1,0 +1,97 @@
+.nav {
+  height: 20vh;
+  background-color: rgb(38, 38, 38);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: aliceblue;
+  font-size: 45px;
+  font-weight: 900;
+}
+.mainArea{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.foodArea{
+  max-height: 40vh;
+  overflow-y: scroll;
+}
+
+.tableArea {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  flex-direction: column;
+}
+
+.tableheader {
+  width: 16vw;
+  background-color: rgb(238, 96, 96);
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Apply the following styles to the <td> elements within the table body */
+.table tbody td {
+  width: 16vw;
+  height: 40px;
+}
+.row{
+  display: flex;
+  gap: 5px;
+}
+
+.lastrow{
+  display: flex;
+  justify-content: space-between;
+  width: calc(80vw + 20px);
+}
+
+.getmore {
+  color: aliceblue;
+  text-decoration: none;
+  background-color: rgb(38, 38, 38);
+  padding: 5px 10px;
+  font-weight: 700;
+  font-size: 30px;
+  border-color: transparent;
+  height: 50px;
+  margin-top: 20px;
+  width: 25vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+.getmore:hover{
+  border: 1px solid;
+  border-color: rgb(38, 38, 38);
+  background-color: aliceblue;
+  color: rgb(38, 38, 38);
+}
+
+.paybutton{
+  background-color: rgb(238, 92, 92);
+  height: 50px;
+  width: 25vw;
+  font-size: 30px;
+  border-color: transparent;
+  margin-top: 20px;
+  font-weight: 700;
+  color: aliceblue;
+  cursor: pointer;
+}
+.paybutton:hover{
+  border: 1px solid;
+  border-color: rgb(238, 92, 92);
+  background-color: aliceblue;
+  color: rgb(238, 92, 92);
+}
+
+/* Optionally, you can add a class to the table rows if needed */
+/* .table tbody tr {
+  display: flex;
+} */

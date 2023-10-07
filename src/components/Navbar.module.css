@@ -17,6 +17,12 @@
 .white{
     color: white;
 }
+.searchArea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
 .searchNav{
     background-color: rgba(33, 35, 34, 0.755);
     border: rgba(33, 35, 34, 0.708);

@@ -1,0 +1,62 @@
+/** @format */
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.wholeArea {
+  display: flex;
+  flex-direction: column;
+}
+.navArea {
+  height: 20vh;
+  background-color: rgb(38, 38, 38);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: aliceblue;
+  font-size: 45px;
+  font-weight: 900;
+}
+.mainArea {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.form {
+  width: 40vw;
+}
+.label {
+  font-size: 23px;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+}
+.input {
+  width: 100%;
+  font: 300;
+  font-size: 23px;
+  padding: 1px 10px;
+  margin-bottom: 20px;
+  margin-top: 2px;
+  box-sizing: border-box;
+}
+.paydiv{
+    display: flex;
+    justify-content: flex-end;
+    width: 40vw;
+}
+.paybutton{
+  background-color: rgb(238, 92, 92);
+  height: 50px;
+  width: 15vw;
+  font-size: 30px;
+  border-color: transparent;
+  margin-top: 20px;
+  font-weight: 700;
+  color: aliceblue;
+  cursor: pointer;
+}
+.paybutton:hover{
+  border: 1px solid;
+  border-color: rgb(238, 92, 92);
+  background-color: aliceblue;
+  color: rgb(238, 92, 92);
+}
